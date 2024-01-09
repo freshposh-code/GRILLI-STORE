@@ -699,7 +699,7 @@
     margin-block-end: 100px;
   }
   
-  .navbar-item { border-block-start: 1px solid var(--white-alpha-20); }
+  .navbar-item { border-block-end: 1px solid var(--white-alpha-20); }
   
   .navbar-link {
     position: relative;
